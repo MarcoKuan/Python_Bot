@@ -8,6 +8,7 @@ translator = googletrans.Translator()
 client = discord.Client()
 # The token that allows client to run the script
 # token = ...
+token = "NTg1NDAyNDcxNzg3MTM0OTc2.XPZCjw.qONkg7IGhzwHqEXu5hznpFmzghE"
 
 # Notify on console that the discord bot is ready
 @client.event
