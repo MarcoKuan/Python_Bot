@@ -11,6 +11,7 @@ client = discord.Client()
 token = "NTg1NDAyNDcxNzg3MTM0OTc2.XPZCjw.qONkg7IGhzwHqEXu5hznpFmzghE"
 
 # Notify on console that the discord bot is ready
+
 @client.event
 async def on_ready():
     print("The bot is ready!")
